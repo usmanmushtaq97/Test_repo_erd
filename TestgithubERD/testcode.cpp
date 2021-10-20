@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Test code for email notification which are triger by vents";
+    std::cout << "test for Commit Email";
     return 0;
 }
