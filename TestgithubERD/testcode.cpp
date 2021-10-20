@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Master Branch";
+    std::cout <<  "Branch one for push";
     return 0;
 }
