@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "test branch 1  for pull request";
+    std::cout << "Master Branch";
     return 0;
 }
